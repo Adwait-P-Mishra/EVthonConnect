@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "833848188564",
+    "firebase_url": "https://evthon-connect-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "evthon-connect",
+    "storage_bucket": "evthon-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833848188564:android:c1862f0bc78c72c9599e81",
+        "android_client_info": {
+          "package_name": "com.evthon.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833848188564-rosg6p522hr1q0j8a006seig62l259og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvZ2P4LdoY0sTYR8NVyxHlNSF9Kc0hrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833848188564-rosg6p522hr1q0j8a006seig62l259og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833848188564:android:8fe761c33492e0ba599e81",
+        "android_client_info": {
+          "package_name": "com.example.evthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833848188564-rosg6p522hr1q0j8a006seig62l259og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvZ2P4LdoY0sTYR8NVyxHlNSF9Kc0hrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833848188564-rosg6p522hr1q0j8a006seig62l259og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

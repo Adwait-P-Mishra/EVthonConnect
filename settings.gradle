@@ -1,0 +1,2 @@
+rootProject.name = "EVthonConnect"
+include ':app'
